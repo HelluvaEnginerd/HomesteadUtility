@@ -1,4 +1,4 @@
-# HomeStead Utility
+# Homestead Utility
 A way to track my hobbies
 
 ## Hobbies
